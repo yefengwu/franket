@@ -1,0 +1,17 @@
+{
+    "homepage": "https://github.com/winsw/winsw",
+    "version" : "2.11.0",
+    "url" : "https://github.com/winsw/winsw/releases/download/v2.11.0/WinSW-x64.exe",
+    "hash" : "69833b8bd0b76cbf051a795ae89f9071b24863b7f141f87ccb675bdb08e8fb8b",
+    "bin" : "WinSW-x64.exe",
+    "shortcuts" : [
+        [
+            "WinSW-x64.exe",
+            "WinSW-x64"
+        ]
+    ],
+    "checkver": "github",
+    "autoupdate":{
+        "url": "https://github.com/winsw/winsw/releases/download/$versions/WinSW-x64.exe"
+    }
+}
