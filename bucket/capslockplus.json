@@ -1,0 +1,17 @@
+{
+    "homepage": "https://capslox.com/capslock-plus/",
+    "version" : "3.2.0",
+    "url" : "https://dl.capslox.com/capslock-plus/Capslock%2B_v3.2.0.exe",
+    "hash" : "5d5e9d86d2fa7360b7a83c9c0ba5078f6634e2347c14a911ab0836ee307fab10",
+    "bin" : "Capslock+_v3.2.0.exe",
+    "shortcuts" : [
+        [
+            "Capslock+_v3.2.0.exe",
+            "Capslock+"
+        ]
+    ],
+    "checkver": "github",
+    "autoupdate":{
+        "url": "https://dl.capslox.com/capslock-plus/Capslock%2B_v3.2.0.exe"
+    }
+}
