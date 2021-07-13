@@ -1,0 +1,17 @@
+{
+    "homepage": "https://github.com/FlySelfLog/downkyi",
+    "version" : "1.4.0",
+    "url" : "https://github.com/FlySelfLog/downkyi/releases/download/v1.4.0/DownKyi-1.4.0.zip#dl.7z",
+    "hash" : "69833b8bd0b76cbf051a795ae89f9071b24863b7f141f87ccb675bdb08e8fb8b",
+    "bin" : "DownKyi.exe",
+    "shortcuts" : [
+        [
+            "DownKyi.exe",
+            "DownKyi"
+        ]
+    ],
+    "checkver": "github",
+    "autoupdate":{
+        "url": "https://github.com/FlySelfLog/downkyi/releases/download/v1.4.0/DownKyi-1.4.0.zip#dl.7z"
+    }
+}
