@@ -1,7 +1,7 @@
 {
     "homepage": "https://www.yingdev.com/projects/wgestures",
     "version" : "1.8.4.0",
-    "url" : "https://f105484402f59870c8dd073de16aa3a8813e58a6@git.yefengx.top/attachments/e7875cc1-bc4e-415f-a6f8-968f4ff64cc2",
+    "url" : "https://ai.yefengx.top/WinApp/Install%20WGestures.msi",
     "hash" : "dfd7877d8be374d59966f2156cf77429fa27e5c51c09533c3fb0c736f9d73e82",
     "bin" : "WGestures/WGestures.exe",
     "shortcuts" : [
@@ -12,6 +12,6 @@
     ],
     "checkver": "github",
     "autoupdate":{
-        "url": "https://f105484402f59870c8dd073de16aa3a8813e58a6@git.yefengx.top/attachments/e7875cc1-bc4e-415f-a6f8-968f4ff64cc2"
+        "url": "https://ai.yefengx.top/WinApp/Install%20WGestures.msi"
     }
 }

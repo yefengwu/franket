@@ -1,0 +1,17 @@
+{
+    "homepage": "https://www.easyuefi.com/index-cn.html",
+    "version" : "4.5",
+    "url" : "https://ai.yefengx.top/WinApp/EasyUEFI.v4.5.Enterprise.exe",
+    "hash" : "fe2c8a666387cfc60ddb09672a95a30fc761889fcfa5057d51864e30e251c3df",
+    "bin" : "EasyUEFI.v4.5.Enterprise.exe",
+    "shortcuts" : [
+        [
+            "EasyUEFI.v4.5.Enterprise.exe",
+            "EasyUEFI"
+        ]
+    ],
+    "checkver": "github",
+    "autoupdate":{
+        "url": "https://ai.yefengx.top/WinApp/EasyUEFI.v4.5.Enterprise.exe"
+    }
+}
