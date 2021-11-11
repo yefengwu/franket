@@ -1,17 +1,17 @@
 {
     "homepage": "https://capslox.com/capslock-plus/",
-    "version" : "3.2.0",
-    "url" : "https://ai.yefengx.top/WinApp/CapslockPlus_v3.2.0.exe",
-    "hash" : "5d5e9d86d2fa7360b7a83c9c0ba5078f6634e2347c14a911ab0836ee307fab10",
-    "bin" : "CapslockPlus_v3.2.0.exe",
+    "version" : "v0.1",
+    "url" : "https://gitee.com/yefengwu/capslcok/attach_files/878522/download/capslock.exe",
+    "hash" : "e62799f00aaf378a74a6d1f0dae916d0e26c71f0e24b6dfdad2dc00fa7354a23",
+    "bin" : "capslock.exe",
     "shortcuts" : [
         [
-            "CapslockPlus_v3.2.0.exe",
-            "CapslockPlus"
+            "capslock.exe",
+            "Capslock"
         ]
     ],
     "checkver": "github",
     "autoupdate":{
-        "url": "https://ai.yefengx.top/WinApp/CapslockPlus_v3.2.0.exe"
+        "url": "https://gitee.com/yefengwu/capslcok/attach_files/878522/download/capslock.exe"
     }
 }
