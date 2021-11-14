@@ -1,8 +1,8 @@
 {
     "homepage": "https://capslox.com/capslock-plus/",
     "version" : "v0.1",
-    "url" : "https://gitee.com/yefengwu/capslcok/attach_files/878522/download/capslock.exe",
-    "hash" : "e62799f00aaf378a74a6d1f0dae916d0e26c71f0e24b6dfdad2dc00fa7354a23",
+    "url" : "https://gitee.com/yefengwu/capslcok/attach_files/880732/download/capslock.exe",
+    "hash" : "016090a4aa7300c65aa9612fc9b2db79a518075cead193936388cc0e706560fe",
     "bin" : "capslock.exe",
     "shortcuts" : [
         [

@@ -1,0 +1,17 @@
+{
+    "homepage": "https://www.lopesoft.com/index.php/en/download/filemenu-tools",
+    "version" : "7.8",
+    "url" : "https://gitee.com/yefengwu/franket/attach_files/868242/download/FileMenuTools_7.8_Portable.zip",
+    "hash" : "01768ef78e8c219d9ae12cb30884ac6a5a86ca69e71ee11b35a23b611ce0c517",
+    "bin" : "FileMenuTools.exe",
+    "shortcuts" : [
+        [
+            "FileMenuTools.exe",
+            "FileMenuTools"
+        ]
+    ],
+    "checkver": "gitee",
+    "autoupdate":{
+        "url": "https://gitee.com/yefengwu/franket/attach_files/868242/download/FileMenuTools_7.8_Portable.zip"
+    }
+}
