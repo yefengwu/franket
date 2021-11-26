@@ -1,8 +1,8 @@
 {
     "homepage": "https://www.easyuefi.com/index-cn.html",
     "version" : "4.5",
-    "url" : "https://ai.yefengx.top/WinApp/EasyUEFI.v4.5.Enterprise.exe",
-    "hash" : "fe2c8a666387cfc60ddb09672a95a30fc761889fcfa5057d51864e30e251c3df",
+    "url" : "https://gitee.com/yefengwu/franket/attach_files/844694/download/EasyUEFI.v4.5.Enterprise.zip#dl.7z",
+    "hash" : "aefb14bccb6d99e9a44440b67458f878a221d6ea21318eaad38c2a6a7854f710",
     "bin" : "EasyUEFI.v4.5.Enterprise.exe",
     "shortcuts" : [
         [
@@ -10,8 +10,8 @@
             "EasyUEFI"
         ]
     ],
-    "checkver": "github",
+    "checkver": "gitee",
     "autoupdate":{
-        "url": "https://ai.yefengx.top/WinApp/EasyUEFI.v4.5.Enterprise.exe"
+        "url": "https://gitee.com/yefengwu/franket/attach_files/844694/download/EasyUEFI.v4.5.Enterprise.zip#dl.7z"
     }
 }
