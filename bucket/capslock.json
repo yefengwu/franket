@@ -1,0 +1,17 @@
+{
+    "homepage": "https://capslox.com/capslock-plus/",
+    "version" : "v0.1",
+    "url" : "https://github.com/yefengwu/Capslock/releases/latest/download/Capslock.exe",
+    "hash" : "697ae98e506f29221709a768c4c75f45bea83e8f5b7eff19fd344e1737ff567b",
+    "bin" : "Capslock.exe",
+    "shortcuts" : [
+        [
+            "Capslock.exe",
+            "Capslock"
+        ]
+    ],
+    "checkver": "github",
+    "autoupdate":{
+        "url": "https://github.com/yefengwu/Capslock/releases/latest/download/Capslock.exe"
+    }
+}

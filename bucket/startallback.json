@@ -1,0 +1,17 @@
+{
+    "homepage": "https://www.startallback.com/",
+    "version" : "3.1.5",
+    "url" : "https://gitee.com/yefengwu/franket/attach_files/912884/download/StartAllBack_v3.1.5.zip#dl.7z",
+    "hash" : "ac6155df20fc6513d4a418decd33265507820ce8da15a1c741d9bf3243b553e5",
+    "bin" : "StartAllBack_v3.1.5.exe",
+    "shortcuts" : [
+        [
+            "StartAllBack_v3.1.5.exe",
+            "StartAllBack"
+        ]
+    ],
+    "checkver": "gitee",
+    "autoupdate":{
+        "url": "https://gitee.com/yefengwu/franket/attach_files/912884/download/StartAllBack_v3.1.5.zip#dl.7z"
+    }
+}
