@@ -1,7 +1,7 @@
 {
     "homepage": "https://www.tracker-software.com/product/pdf-xchange-viewer",
     "version" : "8.0.342.0",
-    "url" : "https://github.com/yefengwu/franket/releases/download/v1.0/PDF-XChange_Editor_Plus8.0.342.0.7z#dl.7z",
+    "url" : "https://gitee.com/yefengwu/franket/attach_files/844172/download/PDF-XChange_Editor_Plus8.0.342.0.7z#dl.7z",
     "hash" : "39a42094c978438cdbff5ec455de44eb30f37873620efbe01b25b4ae05cb501d",
     "bin" : "PDFXEdit.exe",
     "shortcuts" : [
@@ -12,6 +12,6 @@
     ],
     "checkver": "gitee",
     "autoupdate":{
-        "url": "https://github.com/yefengwu/franket/releases/download/v1.0/PDF-XChange_Editor_Plus8.0.342.0.7z#dl.7z"
+        "url": "https://gitee.com/yefengwu/franket/attach_files/844172/download/PDF-XChange_Editor_Plus8.0.342.0.7z"
     }
 }
