@@ -1,0 +1,19 @@
+{
+    "homepage": "https://github.com/YaSuenag/SimpleCom",
+    "version": "1.1.0",
+    "hash": "f904f2d2fc493c7d23c0edb0636a9711d081e856774aacae13da5a3be887b9dc",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/YaSuenag/SimpleCom/releases/download/v1.1.0/SimpleCom-1.1.0.zip",
+            "hash": "f904f2d2fc493c7d23c0edb0636a9711d081e856774aacae13da5a3be887b9dc",
+        },
+    },
+    "extract_dir": "SimpleCom-1.1.0",
+    "bin": "SimpleCom.exe",
+    "shortcuts": [
+        [
+            "SimpleCom.exe",
+            "SimpleCom"
+        ]
+    ]
+}
