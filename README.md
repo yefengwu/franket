@@ -1,5 +1,14 @@
-# Bucket Template
+# Scoop Bucket
+
+## Add Bucket
+
+```powershell
+scoop bucket add franket git@github.com:yefengwu/franket.git
 ```
+
+## Bucket Template
+
+```json
 //json版本不支持注释，可能会有问题
 {
     //软件主页
